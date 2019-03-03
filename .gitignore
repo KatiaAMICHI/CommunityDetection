@@ -1,6 +1,6 @@
 C/
 .idea/
 venv/
-__pycharm__/
+__pycharm__/.*
 code_index.txt
 src/tme3CPA.py
